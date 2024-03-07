@@ -6,4 +6,4 @@
 4. Herencia de padre.html
 5. Formularios para las 3 clases
 6. Busqueda en BD para la clase Jugador, buscando por Nickname
-7. 
+
